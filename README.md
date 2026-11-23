@@ -1,4 +1,4 @@
-## Hi there 👋
+Computer Science Engineering Student | Aspiring Software Engineer | Exploring AI, Cybersecurity & Full Stack Development | Building Real-World Projects 🚀
 
 <!--
 **SanshikaSharma/SanshikaSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
